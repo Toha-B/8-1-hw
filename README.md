@@ -21,7 +21,7 @@
 
 **Ответ:**
 
-e1b8a09e9feb3092448bf38938a43da06e15c76b
+https://github.com/Toha-B/8-1-hw/commit/e1b8a09e9feb3092448bf38938a43da06e15c76b
 
 
 ### Задание 2
