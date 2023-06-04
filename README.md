@@ -49,7 +49,8 @@ https://github.com/Toha-B/8-1-hw/commit/66d396fdb8298cca28e7db96c4fbabbf0fefa7f0
 1. Сделайте мердж этой ветки в основную. Сначала нужно переключиться на неё, а потом вызывать `git merge`.
 1. Сделайте коммит и пуш.
 
-**Ответ**
+**Ответ:**
+
 https://github.com/Toha-B/8-1-hw/network
 
 
