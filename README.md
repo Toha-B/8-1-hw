@@ -19,7 +19,7 @@
 1. Теперь можно сделать коммит `git commit -m 'First commit'`.
 1. Сделайте `git push origin master`.
 
-** Ответ: **
+**Ответ:**
 
 e1b8a09e9feb3092448bf38938a43da06e15c76b
 
